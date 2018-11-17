@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: f1fa109d36250fe45b055e66ae2f890d
+timeCreated: 1464267998
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000001000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 82af93776fd515ceebed6c458068b02c
+  longitude: -.13732
+  latitude: 50.820773000000003
+  northCorrection: 2.2200797198902933
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 9.32938766, y: 6.50847387, z: -11.3408957}
+      lookAt: {x: -37.7277336, y: -14.8610382, z: 45.9508057}
+      up: {x: -.175787151, y: .960882127, z: .214019567}
+      fov: 52.7656555
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: -7.27259254, y: 2.76041126, z: -25.2271538}
+        lookAt: {x: -2.07538152, y: 4.04096174, z: -11.5549316}
+        up: {x: -.00943388231, y: .995924771, z: -.0896929651}
+        fov: 52.7656555
+        aspectRatio: 1.33333337
+        orthoSize: 1
+        isPerspective: 1
+      name: DSCF4487
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Fishes
+    100004: Group 10
+    100006: Group 11
+    100008: Group 16
+    100010: Group 17
+    100012: Group 22
+    100014: Group 23
+    100016: Group 6
+    100018: Group#5
+    100020: Group#5 1
+    100022: Group#5 2
+    100024: Sphere
+    100026: Sphere 1
+    100028: Sphere 2
+    100030: Sphere 3
+    400000: //RootNode
+    400002: Fishes
+    400004: Group 10
+    400006: Group 11
+    400008: Group 16
+    400010: Group 17
+    400012: Group 22
+    400014: Group 23
+    400016: Group 6
+    400018: Group#5
+    400020: Group#5 1
+    400022: Group#5 2
+    400024: Sphere
+    400026: Sphere 1
+    400028: Sphere 2
+    400030: Sphere 3
+    2300000: //RootNode
+    2300002: Group 11
+    2300004: Group 17
+    2300006: Group 23
+    2300008: Group 6
+    2300010: Sphere
+    2300012: Sphere 1
+    2300014: Sphere 2
+    2300016: Sphere 3
+    3300000: //RootNode
+    3300002: Group 11
+    3300004: Group 17
+    3300006: Group 23
+    3300008: Group 6
+    3300010: Sphere
+    3300012: Sphere 1
+    3300014: Sphere 2
+    3300016: Sphere 3
+    4300000: Mesh 3d-model
+    4300002: Mesh Group 6
+    4300004: Mesh Group 11
+    4300006: Mesh Sphere
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0253999997
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
